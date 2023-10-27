@@ -1,0 +1,14 @@
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\bin\Debug\net7.0\Csharp.exe
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\bin\Debug\net7.0\Csharp.deps.json
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\bin\Debug\net7.0\Csharp.runtimeconfig.json
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\bin\Debug\net7.0\Csharp.dll
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\bin\Debug\net7.0\Csharp.pdb
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\obj\Debug\net7.0\Csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\obj\Debug\net7.0\Csharp.AssemblyInfoInputs.cache
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\obj\Debug\net7.0\Csharp.AssemblyInfo.cs
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\obj\Debug\net7.0\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\obj\Debug\net7.0\Csharp.dll
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\obj\Debug\net7.0\refint\Csharp.dll
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\obj\Debug\net7.0\Csharp.pdb
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\obj\Debug\net7.0\Csharp.genruntimeconfig.cache
+C:\Users\cxcv\Documents\MeuProjeto\Csharp\Csharp\obj\Debug\net7.0\ref\Csharp.dll
