@@ -1,12 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
+using System.ComponentModel;
 
 class Program {
   public static void Main (string[] args) {
     int mes;
     double x, y, z, a, b, c, nota;
     double q, w, e, r, area, raio, fx;
-    double ctt1, ctt2, hpt;
+    double  numero, raiz;
     c = 33;
     raio = 4;
   
@@ -129,8 +130,19 @@ class Program {
       break;
     }
     Console.WriteLine(mesStr);
-    
-    
+
+    // while, do while, for
+    //ex a ser repetido
+
+    Console.WriteLine("Digite um número: ");
+    numero = Double.Parse(Console.ReadLine());
+    while (numero > 0)
+    {
+    raiz = Math.Sqrt(numero);
+    Console.WriteLine("a raiz quadrada de:"+numero+" é "+raiz);
+    Console.WriteLine("Digite um número: ");
+    numero = Double.Parse(Console.ReadLine());
+    }    
     Console.ReadKey();
   }
 }
